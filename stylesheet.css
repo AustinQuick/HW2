@@ -10,13 +10,14 @@
 		}
 	
 .picture1 {
-	height: 500px;
-	width: 780px;
+	align: center;
+	height: 400px;
+	width: 750px;
 		}
 		
 .picture2{
-	height: 320px;
-	width: 200px;
+	height: 400px;
+	width: 250px;
 		}
 		
 body {
@@ -25,12 +26,20 @@ body {
 	
 p{font-size:15px;}
 
-h1{
-		font-size: 24px;}
+h1{		text-align:center;
+		font-weight:bold;
+		font-size: 32px;}
 		
-h2{
+h2{		text-align:center;
+		font-weight:bold;
 		font-size: 22px;}		
 		
-h3{
+h3{		text-align:center;
+		font-weight:bold;
 		font-size: 20px;}
+		
+.list1{	text-align: center;
+		font-size: 15px;}
+		
+		
 		
