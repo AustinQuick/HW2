@@ -1,0 +1,36 @@
+﻿.resume {
+	width:500px;
+	padding: 25px;
+	border: 15px solid black;
+	margin: 25px;
+	border-radius: 10px;
+	margin-right:auto;
+	margin-left: auto;
+	background-color: #B7F062
+		}
+	
+.picture1 {
+	height: 400px;
+	width: 400px;
+		}
+		
+.picture2{
+	height: 400px;
+	width: 400px;
+		}
+		
+body {
+	background: #E8CD00;
+	}
+	
+p{font-size:15px;}
+
+h1{
+		font-size: 24px;}
+		
+h2{
+		font-size: 22px;}		
+		
+h3{
+		font-size: 20px;}
+		
